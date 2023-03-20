@@ -1,0 +1,14 @@
+mnist
+./mnist
+mnist/*
+./mnist/*
+
+__pycache__
+__pycache__/*
+
+.DS_Store
+*.DS_Store
+
+*.idea
+.idea
+.idea/*
